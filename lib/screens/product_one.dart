@@ -137,7 +137,7 @@ class ProductOne extends StatelessWidget {
                             vertical: 15.0,
                           ),
                         ),
-                        icon: const Icon(Icons.shopping_bag_outlined),
+                        icon: const Icon(Icons.arrow_back),
                         label: const Text('Regresar'),
                       ),
                     ],
